@@ -1,0 +1,201 @@
+Tweet Id,Target,Stance,Opinion Towards,Sentiment
+1248754380691496962,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1270406051666460673,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1280857161061421058,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1260232413977993219,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1249759151514963969,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1287201420446511106,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1253523027838619649,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1278472444072820736,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1286727458113298434,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1259436466263842817,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1283187570244034562,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1241417423380606984,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1260818789915975682,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1285977410815561735,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1236775340959293443,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1276628382894174209,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1253102297393086466,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1284403725210198016,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,pos
+1260233642644844545,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1260686161632268288,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1278548007353450496,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,pos
+1282421363748347908,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1286441436544548865,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1256751405714616320,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1249721914324668416,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1280978618345238534,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1288549177689911297,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1243331699431411717,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1289703497605275649,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1277675826482298881,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1243315228261011457,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1282866474550427653,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1260337836408008704,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1289203987938336769,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1247657365681451008,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1282441755892359168,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1287287185243242497,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1258867955531726861,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1283715685198290944,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1246960784363708423,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1253040825132597251,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1260974480907816962,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1283457767953567751,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1249457715308408833,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1282787705433337856,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1253086941911715840,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1282429617152954368,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1272955613681762306,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1261085563278340099,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1271174923806027776,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1280429948876931074,fauci,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1283082422712545280,fauci,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1281045217001398273,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1249818786309570560,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1286457854191427584,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1249448844989026304,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289691911716868098,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1244854496687243265,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1249683365495799809,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1283195581066813440,fauci,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1281440786110799872,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289853234551623680,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1282419019790741504,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1286236214534770693,fauci,AGAINST,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1281240569642192896,fauci,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1256173784312111105,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1278461761146978304,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1260389673307947009,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289426373853851649,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1284908049774379009,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1283507969070469120,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1260560244633219075,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1290809232686637056,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1286013927382450176,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1280268473067884544,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1250113918871240705,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1284650580800135172,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1282072842448797696,fauci,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1278155281365688321,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289673524559278088,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289650301062926336,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1260785890391187462,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1260292349588058114,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1277928420115169280,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1281405926621282306,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289991373777756162,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1278098168153100288,fauci,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1282515031607914496,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289650462451326976,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1283086706007105540,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289893437685157890,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1281739467917873157,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1257746767090642944,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1251947463273074691,fauci,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1289566216621703169,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1249796158223839232,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1260560965457887235,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1285420663357022208,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1245074453165494278,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1281390184530141184,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1287191020707487744,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1284295212026802176,fauci,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1284481976788033537,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1278044027892502535,fauci,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1283261752335937536,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289663543407599618,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1281961092357296128,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1282838529161285632,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1293997035012595713,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289548720116097026,fauci,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1285693655228059651,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289544961428320259,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1281674278585466881,fauci,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1249885441609936896,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1277206163478757376,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1289679760642064385,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1255690842184069121,fauci,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1281165468758183937,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1252019457167372289,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1248028024207020032,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1247727069485617152,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1282863155190759424,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1284962605140865024,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1282551382306938880,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1249345392027807747,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1276386297230180353,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1282023404141453315,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1283863103994765312,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1288893706486063104,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1249864651258638343,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1289839955368243200,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1283421197099773953,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1289670739147317249,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1288499145146236928,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1289587525275643904,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1260370519687401486,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1286818251637493761,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1284947033670012930,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1278268083946258435,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,pos
+1285052452274937856,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1289646287684501509,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1280350743954931714,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1290017142952230912,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1260209898891161612,fauci,NONE,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1252305635066163201,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1283191873213874176,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1260309953581023235,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1282480176933281796,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1290053429881053184,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1284656161732677633,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1282795847533490176,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,pos
+1282038025107775488,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1278078211956461568,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1289671235769638913,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1286638275839569920,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1286455508086349824,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1258095938867953666,fauci,NONE,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1287391767927480320,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,pos
+1288448120519524355,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1248206277479710720,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1289665932604784640,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1247643900841517056,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1289634101574733825,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1284828585291911168,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1246834266513825794,fauci,NONE,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1246820101518536707,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1276358261936205824,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1280469284557189121,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1283524381789102083,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1253096997122453505,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1278123649732493313,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1282433559597383687,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1284651375477972992,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1277627269712879617,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1283848958410756096,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1260212708764352513,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1261183386409930753,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1249061375806246912,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1278140666053382144,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1282890772400893954,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1256031873064673281,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1285558433605996544,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1249810444333785088,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1247113460388945922,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1283189378668359682,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
+1246948346583027712,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1283582494181400582,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1285736567676588034,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1283760738713194496,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1257825825484832768,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,pos
+1285243613778251776,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1281347837163233280,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1284835069832593410,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1270169389577404418,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1286307566440468480,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1243336560361246724,fauci,NONE,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
+1253721539951853568,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1289579114416881664,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
+1289523222002638848,fauci,NONE,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1287281985635749888,fauci,NONE,"3.  The tweet is not explicitly expressing opinion. (For example, the tweet is simply giving information.)",other
