@@ -1,6 +1,6 @@
 Tweet Id,Target,Stance,Opinion Towards,Sentiment
 1284157078555234312,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
-1.24488295539621E+018,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1244882955396206592,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
 1290631866551214080,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
 1289778985446957058,stay_at_home_orders,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,other
 1282939649510346753,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
@@ -10,14 +10,14 @@ Tweet Id,Target,Stance,Opinion Towards,Sentiment
 1287827595795496966,stay_at_home_orders,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,pos
 1284304120514396160,stay_at_home_orders,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
 1290746301009854466,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
-1.27293768477268E+018,stay_at_home_orders,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
+1272937684772679680,stay_at_home_orders,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
 1285810667728011264,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
 1286338674968363012,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
 1286271085680500736,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
 1290714344657784832,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
 1282761035145809921,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
 1282207043697274882,stay_at_home_orders,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,pos
-1.24496276396281E+018,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
+1244962763962814464,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
 1289723088133750784,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
 1288655629138132994,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
 1289961106446802944,stay_at_home_orders,FAVOR,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,pos
@@ -26,7 +26,7 @@ Tweet Id,Target,Stance,Opinion Towards,Sentiment
 1289353088004812800,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
 1281449693512232960,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
 1277281196586795009,stay_at_home_orders,FAVOR,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",pos
-1.25192168126379E+018,stay_at_home_orders,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1251921681263792138,stay_at_home_orders,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
 1253404169462886401,stay_at_home_orders,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
 1282464027487227909,stay_at_home_orders,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
 1283024180607320066,stay_at_home_orders,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",other
@@ -80,7 +80,7 @@ Tweet Id,Target,Stance,Opinion Towards,Sentiment
 1289914664638455808,stay_at_home_orders,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
 1282890341478051840,stay_at_home_orders,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,pos
 1289747293306929154,stay_at_home_orders,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
-1.25326676568727E+018,stay_at_home_orders,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
+1253266765687271424,stay_at_home_orders,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
 1277260829042388995,stay_at_home_orders,AGAINST,"1.  The tweet explicitly expresses opinion about the target, a part of the target, or an aspect of the target.",neg
 1290063970397609984,stay_at_home_orders,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
 1285544823034908673,stay_at_home_orders,AGAINST,2. The tweet does NOT expresses opinion about the target but it HAS opinion about something or someone other than the target.,neg
